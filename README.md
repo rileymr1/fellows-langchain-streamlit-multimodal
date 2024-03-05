@@ -1,1 +1,1 @@
-# fellows-langchain-streamlit
+# fellows-langchain-streamlit-multimodal
